@@ -1,0 +1,33 @@
+.contact-card {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color: rgb(214, 164, 93);
+border-radius: 20px;
+width: 280px;
+margin: 20px;
+padding: 10px;
+border: 2px solid gold;
+}
+.avatar{
+   width: 100px;
+   margin: 10px 20px 5px; 
+   border-radius: 90px;
+}
+
+.delete-edit-btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.delete-edit-btns img{
+    width: 70px;
+    margin: 10px;
+    cursor: pointer;
+    border: 2px solid rgb(1, 27, 4);
+    border-radius: 90px;
+    background-color: rgb(126, 156, 153);
+
+}

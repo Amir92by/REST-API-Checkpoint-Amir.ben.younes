@@ -1,0 +1,8 @@
+.app-btn{
+    background-color: rgb(241, 247, 244);
+    margin: 3%;
+    color: black;
+    font-weight: bold;
+    width: 120px;
+    cursor: pointer;
+}
